@@ -1,0 +1,5 @@
+CAR_CREATED = "car.created"
+CAR_UPDATED = "car.updated"
+CAR_DELETED = "car.deleted"
+RENTAL_STARTED = "rental.started"
+RENTAL_ENDED = "rental.ended"
